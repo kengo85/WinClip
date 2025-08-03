@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinClip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea775003d53edfe4b1e22e9909021b091aabde71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dd18aec302bcac5b92eb35e4ae5e8ec5946d3b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinClip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinClip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
